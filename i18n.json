@@ -1,0 +1,16 @@
+{
+    "locales": [
+        "en",
+        "kh",
+        "fr"
+    ],
+    "defaultNS": "common",
+    "defaultLocale": "en",
+    "pages": {
+        "*": [
+            "common",
+            "glossary",
+            "validation"
+        ]
+    }
+}
